@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react, express, spring and nextjs**
 
-- 📫 How to reach me **hth1292003@gmail.com**
+- 📫 How to reach me <a href="hth1292003@gmail.com">My Email</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
